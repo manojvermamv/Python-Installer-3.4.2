@@ -1,0 +1,6 @@
+id=python_installer_3.4.2
+name=Python Installer 3.4.2
+version=Ver: 3.4.2
+versionCode=342
+author=7175, ManojVerma
+description=Install python3.4.2 to /system/usr/share/python3.4.2
